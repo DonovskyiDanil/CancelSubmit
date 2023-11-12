@@ -1,0 +1,17 @@
+/* styles.css */
+body {
+    background-color: rgb(109, 183, 195);
+    font-family: Arial, sans-serif;
+}
+form {
+    width: 300px;
+    margin: 0 auto;
+}
+label {
+    display: block;
+    margin-top: 10px;
+}
+h1 {
+    text-align: center;
+    color: white;
+}
